@@ -78,7 +78,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 
 ### 5.1 Executive Inventory Snapshot – Category-Level Context
 
-*(Category-Level Inventory Performance Summary, Expiry Risk Distribution visuals)*
+![5.1](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.1%20Executive%20Inventory%20Snapshot%20%E2%80%93%20Systemic%20Inventory%20Health.png)
 
 **Business Questions Answered**
 - Which categories drive inventory value?
@@ -104,7 +104,8 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 
 #### 5.2.1 SKU Portfolio Structure & Revenue Exposure (ABC)
 
-*(Distribution of SKUs & Revenue Share Across ABC, Revenue by ABC × Category)*
+![5.2.1 ABC Pareto Chart](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.1%20Distribution%20of%20SKUs%20%26%20Revenue%20Share%20Across%20ABC.png) 
+![5.2.1 Revenue by ABC & Category Mix](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.1%20Revenue%20by%20ABC%20%26%20Category%20Mix.png)
 
 **Business Questions Answered**
 - How concentrated is revenue across the SKU portfolio?
@@ -129,7 +130,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 
 #### 5.2.2 Combined ABC–XYZ Risk Profile
 
-*(Revenue Distribution Across ABC–XYZ, Orders Distribution Across ABC–XYZ)*
+![5.2.2](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.2%20Revenue%20%26%20Order%20Distribution%20Across%20ABC%E2%80%93XYZ.png)
 
 **Business Questions Answered**
 - Which SKUs are both high-value and volatile?
@@ -151,7 +152,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 
 #### 5.2.3 Demand Volatility & Workload Instability (XYZ)
 
-*(Orders and Revenue Distribution Across XYZ)*
+![5.2.3](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.3%20Monthly%20Distribution%20of%20Orders%20%26%20Revenue%20Across%20XYZ.png)
 
 **Business Questions Answered**
 - How volatile is demand?
@@ -174,7 +175,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 
 #### 5.3.1 Demand Velocity vs Inventory Coverage
 
-*(Demand Velocity vs Days of Cover by Category)*
+![5.3.1](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.3%20Inventory%20Distribution%2C%20Velocity%20%26%20Execution%20Risk/5.3.1%20Demand%20Velocity%20vs%20Inventory%20Coverage.png)
 
 **Business Questions Answered**
 - Is inventory aligned with actual consumption?
@@ -196,7 +197,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 
 #### 5.3.2 FIFO vs FEFO Execution Discipline
 
-*(FIFO vs FEFO Value Comparison by Category)*
+![5.3.2](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.3%20Inventory%20Distribution%2C%20Velocity%20%26%20Execution%20Risk/5.3.2%20FIFO%20vs%20FEFO%20Execution%20Discipline.png)
 
 **Business Questions Answered**
 - Is expiry risk operationally managed?
@@ -216,7 +217,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 
 ### 5.4 Warehouse Throughput & Network Imbalance
 
-*(Orders, revenue, category mix, XYZ distribution by FC)*
+![5.4](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.4%20Warehouse%20Throughput%20%26%20Network%20Imbalance.png)
 
 **Business Question Answered**
 - Is operational workload evenly distributed across the fulfillment network?
@@ -241,7 +242,7 @@ Supplier metrics provide **risk context**, not solution levers.
 
 #### 5.5.1 Supplier Performance Matrix (Reliability vs Lead Time)
 
-*(OTD % vs Avg Lead Time)*
+![5.5.1](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.5%20Supplier%20Reliability%20%26%20Inbound%20Risk%20Exposure/5.5.1%20Supplier%20Performance%20Matrix%20(Reliability%20vs%20Lead%20Time).png)
 
 **Business Question Answered**
 - How predictable is inbound supply into the warehouses?
@@ -264,7 +265,7 @@ Supplier metrics provide **risk context**, not solution levers.
 
 #### 5.5.2 Supplier Cost vs Reliability Tradeoff
 
-*(Avg Unit Cost vs OTD)*
+![5.5.2](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.5%20Supplier%20Reliability%20%26%20Inbound%20Risk%20Exposure/5.5.2%20Supplier%20Cost%20vs%20Reliability%20Tradeoff.png)
 
 **Business Question Answered**
 - How much variability exists in replenishment lead times?
@@ -286,7 +287,7 @@ Supplier metrics provide **risk context**, not solution levers.
 
 #### 5.5.3 Supplier Concentration Risk
 
-*(Top-3 Supplier Quantity Share %)*
+![5.5.3](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.5%20Supplier%20Reliability%20%26%20Inbound%20Risk%20Exposure/5.5.3%20Supplier%20Concentration%20Risk.png)
 
 **Business Question Answered**
 - How exposed is MapleDash to supplier dependency risk?
@@ -307,7 +308,7 @@ Supplier metrics provide **risk context**, not solution levers.
 
 ### 5.6 Sales Pressure & Operational Load Context
 
-*(Monthly orders, revenue trends, avg daily orders)*
+![5.6](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.6%20Sales%20Pressure%20%26%20Operational%20Load%20Context.png)
 
 **Business Question Answered**
 - Are operational issues demand-driven or execution-driven?
