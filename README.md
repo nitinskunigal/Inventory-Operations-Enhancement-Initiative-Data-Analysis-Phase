@@ -38,7 +38,7 @@ This data analysis directly enabled the Business Analysis initiative in the foll
 - **BRD Objectives:** Inventory accuracy, replenishment effectiveness, and reduced supervisor dependency were grounded in data  
 - **User Stories & UAT Scenarios:** High-risk execution points identified here became system validation checkpoints  
 
-🔗 **Business Analysis GitHub Repository:** *(insert link)*
+🔗 **[Business Analysis GitHub Repository](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Business-Analysis-Phase)**
 
 ---
 
