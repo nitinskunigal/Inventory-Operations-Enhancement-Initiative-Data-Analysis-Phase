@@ -160,15 +160,15 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 
 #### 5.2.3 Demand Volatility & Workload Instability (XYZ)
 
-![5.2.3](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.3%20Monthly%20Distribution%20of%20Orders%20%26%20Revenue%20Across%20XYZ.png)
+![5.2.3](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.3%20Distribution%20of%20Orders%20Across%20XYZ.png)
 
 **Business Questions Answered**
 - How volatile is demand?
 - How predictable is daily operational workload?
 
 **Insights**
-- Y-class dominates order volume, indicating sustained volatility.
-- Z-class causes promotion-driven spikes  
+- Y-class dominates order volume (total orders and avg. daily orders), indicating demand imbalance compared to Z.
+- Z-class causes promotion-driven spikes.  
 
 **Implication**
 - Static execution rules fail under volatility
