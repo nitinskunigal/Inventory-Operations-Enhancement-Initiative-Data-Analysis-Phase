@@ -120,7 +120,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 - Execution reliability is required across a broad SKU base
 - •	Errors in inventory accuracy affect many SKUs, not just a few.
 
-**Root Causes**
+**Data-Indicated Root Causes**
 - SKU assortment expanded without execution-tier differentiation.
 - No operational prioritization for revenue-critical SKUs.
 - Inventory policies treat high- and low-impact SKUs similarly.
@@ -143,7 +143,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 **Implication**
 - These SKUs must be protected by system-driven controls.  
 
-**Root Causes**
+**Data-Indicated Root Causes**
 - ABC–XYZ classification not operationalized
 - No differentiated safeguards for high-risk SKUs.
 
@@ -165,7 +165,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 - Static execution rules fail under volatility
 - Manual interventions increase under volatile demand.
 
-**Root Causes**
+**Data-Indicated Root Cause**
 - Replenishment cadence not aligned with volatility.
 
 ---
@@ -188,7 +188,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 - Stockouts coexist with overstocking
 - Replenishment is misaligned with demand reality.
 
-**Root Causes**
+**Data-Indicated Root Causes**
 - Purchase quantities driven by supplier constraints.
 - Poor backstock-to-pick-zone translation.
 
@@ -209,7 +209,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 **Implication**
 - Spoilage risk is execution-driven  
 
-**Root Causes**
+**Data-Indicated Root Cause**
 - FEFO not enforced operationally
 
 ---
@@ -228,7 +228,7 @@ Root causes listed below are **data-indicated hypotheses** derived from observed
 **Implication**
 - Congested FCs amplify the impact of inbound delays and inventory inaccuracies.  
 
-**Root Causes**
+**Data-Indicated Root Causes**
 - Inventory allocation does not align with geographic demand.
 - Inbound scheduling and replenishment rules are FC-agnostic.
 - No systematic balancing mechanism across warehouses.
@@ -255,7 +255,7 @@ Supplier metrics provide **risk context**, not solution levers.
 - Inventory planning based on expected receipts is fragile.
 - Execution controls must absorb variability.
 
-**Root Causes**
+**Data-Indicated Root Causes**
 - No reliability-based supplier segmentation
 - Inbound processes assume plan adherence rather than execution variability.
 - Limited feedback loop from operations to procurement.
@@ -277,7 +277,7 @@ Supplier metrics provide **risk context**, not solution levers.
 **Implication**
 - Operational inefficiency offsets unit-cost savings
 
-**Root Causes**
+**Data-Indicated Root Causes**
 - Supplier evaluation lacks multi-dimensional scoring.
 - Reliability is not weighted sufficiently in purchasing decisions.
 - Inventory buffers compensate for supplier issues instead of addressing them.
@@ -298,7 +298,7 @@ Supplier metrics provide **risk context**, not solution levers.
 - Disruption from a single supplier can cascade across multiple FCs.
 - System resilience becomes critical.
 
-**Root Causes**
+**Data-Indicated Root Causes**
 - Limited dual sourcing for critical SKUs.
 - No supplier criticality classification.
 - Inventory policies do not adjust for dependency risk.
@@ -320,7 +320,7 @@ Supplier metrics provide **risk context**, not solution levers.
 - Inventory and replenishment systems must react to execution timing, not forecasts alone.
 - Manual controls struggle during peak periods.  
 
-**Root Causes**
+**Data-Indicated Root Causes**
 - Replenishment logic is not seasonality-aware.
 - Inventory updates lag during peak operational load.
 - Process design assumes stable demand patterns that do not exist.
@@ -352,8 +352,8 @@ These occur in the **Business Analysis phase**, where this analysis serves as va
 
 ## 7. Key Deliverables & Links
 
-- Interactive Power BI Dashboard *(link)*  
-- Dashboard Screenshots (All Report Pages) *(link)*  
-- KPI Dictionary *(link)*  
-- Data Dictionary *(link)*  
-- Business Analysis Project Repository *(link)*  
+- Interactive Power BI Dashboard  
+- **[Screenshots of Power BI Report Pages](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/tree/main/DA%20Deliverables/Screenshots%20of%20Power%20BI%20Report%20Pages)**  
+- **[KPI Dictionary](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/KPI%20Dictionary.pdf)**
+- **[Data Dictionary](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Data%20Dictionary.pdf)**
+- **[Business Analysis Project Repository](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Business-Analysis-Phase)**
