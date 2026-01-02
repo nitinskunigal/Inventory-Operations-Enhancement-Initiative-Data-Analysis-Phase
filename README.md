@@ -361,7 +361,7 @@ These occur in the **Business Analysis phase**, where this analysis serves as va
 
 ## 7. Key Deliverables and Links
 
-- Interactive Power BI Dashboard  
+- **[Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmRmNGRhOGEtN2IyNi00ZWNjLTkxN2YtMmYyMzJhNzNhN2NmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
 - **[Screenshots of Power BI Report Pages](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/tree/main/DA%20Deliverables/Screenshots%20of%20Power%20BI%20Report%20Pages)**  
 - **[KPI Dictionary](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/KPI%20Dictionary.pdf)**
 - **[Data Dictionary](https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Data%20Dictionary.pdf)**
