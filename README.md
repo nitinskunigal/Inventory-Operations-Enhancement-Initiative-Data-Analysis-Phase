@@ -1,4 +1,4 @@
-# Inventory Operations Enhancement - Data Analysis Phase (Feeds the Business Analysis Phase)
+# Inventory Operations Enhancement - Data Analysis Phase (Feeds the Business Analysis Initiative)
 
 ## Table of Contents
 
