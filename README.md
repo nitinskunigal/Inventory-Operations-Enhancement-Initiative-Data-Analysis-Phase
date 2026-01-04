@@ -86,7 +86,7 @@ This section translates dashboard visuals into operational understanding. Rather
   Inventory value is concentrated in slow-moving categories, suppressing overall turnover while masking stockout risk in faster-moving categories
 </p>
 <p align="center">
-  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.1%20Executive%20Inventory%20Snapshot%20%E2%80%93%20Systemic%20Inventory%20Health.png alt=5.1 width="1000"/>
+  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Data-Driven-Current-State-Analysis/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.1%20Executive%20Inventory%20Snapshot%20%E2%80%93%20Systemic%20Inventory%20Health.png alt=5.1 width="1000"/>
 </p>
 
 **Insights**
@@ -110,10 +110,10 @@ Operationally, this imbalance creates a dual problem. Working capital is locked 
 
 <p align="center"> Revenue-critical SKUs are not a narrow subset, expanding execution risk across a large portion of the assortment</p>
 <p align="center">
-  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.1%20Distribution%20of%20SKUs%20%26%20Revenue%20Share%20Across%20ABC.png alt=5.2.1 ABC Pareto Chart width="600"/>
+  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Data-Driven-Current-State-Analysis/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.1%20Distribution%20of%20SKUs%20%26%20Revenue%20Share%20Across%20ABC.png alt=5.2.1 ABC Pareto Chart width="600"/>
 </p>
 <p align="center">
-  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.1%20Revenue%20by%20ABC%20%26%20Category%20Mix.png alt=5.2.1 Revenue by ABC & Category Mix width="600"/>
+  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Data-Driven-Current-State-Analysis/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.1%20Revenue%20by%20ABC%20%26%20Category%20Mix.png alt=5.2.1 Revenue by ABC & Category Mix width="600"/>
 </p>
 
 **Insights**
@@ -133,7 +133,7 @@ Revenue concentration within A-class SKUs is particularly strong in categories s
 
 <p align="center"> High-value, volatile SKUs dominate both revenue and workload, concentrating execution risk where failures hurt most </p>
 <p align="center">
-  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.2%20Revenue%20%26%20Order%20Distribution%20Across%20ABC%E2%80%93XYZ.png alt=5.2.2 width="600"/>
+  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Data-Driven-Current-State-Analysis/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.2%20Revenue%20%26%20Order%20Distribution%20Across%20ABC%E2%80%93XYZ.png alt=5.2.2 width="600"/>
 </p>
 
 **Insights**
@@ -153,7 +153,7 @@ The absence of C/X SKUs, which would represent low-value, stable demand items, i
 
 <p align="center"> Sustained demand volatility undermines static replenishment and cycle counting practices </p>
 <p align="center">
-  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.3%20Distribution%20of%20Orders%20Across%20XYZ.png alt=5.2.3 width="1000"/>
+  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Data-Driven-Current-State-Analysis/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.2%20Demand%20Volatility%2C%20Revenue%20Concentration%20%26%20SKU%20Risk%20(ABC%E2%80%93XYZ)/5.2.3%20Distribution%20of%20Orders%20Across%20XYZ.png alt=5.2.3 width="1000"/>
 </p>
 
 **Insights**
@@ -175,7 +175,7 @@ In an environment where demand is neither stable nor predictable, static repleni
 
 <p align="center"> Inventory is positioned opposite to consumption patterns, creating simultaneous overstocking and stockouts </p>
 <p align="center">
-  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.3%20Inventory%20Distribution%2C%20Velocity%20%26%20Execution%20Risk/5.3.1%20Demand%20Velocity%20vs%20Inventory%20Coverage.png alt=5.3.1 width="800"/>
+  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Data-Driven-Current-State-Analysis/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.3%20Inventory%20Distribution%2C%20Velocity%20%26%20Execution%20Risk/5.3.1%20Demand%20Velocity%20vs%20Inventory%20Coverage.png alt=5.3.1 width="800"/>
 </p>
 
 **Insights**
@@ -195,7 +195,7 @@ Even when total inventory appears sufficient, high-velocity categories run close
 
 <p align="center"> Expiry risk is driven by execution discipline gaps, not forecasting or demand </p>
 <p align="center">
-  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.3%20Inventory%20Distribution%2C%20Velocity%20%26%20Execution%20Risk/5.3.2%20FIFO%20vs%20FEFO%20Execution%20Discipline.png alt=5.3.2 width="400"/>
+  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Data-Driven-Current-State-Analysis/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.3%20Inventory%20Distribution%2C%20Velocity%20%26%20Execution%20Risk/5.3.2%20FIFO%20vs%20FEFO%20Execution%20Discipline.png alt=5.3.2 width="400"/>
 </p>
 
 **Insights**
@@ -237,7 +237,7 @@ This imbalance magnifies the impact of execution gaps. Inbound delays, replenish
 
 <p align="center"> Inbound unpredictability requires execution controls that absorb variability, not assume plan adherence </p>
 <p align="center">
-  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.5%20Supplier%20Reliability%20%26%20Inbound%20Risk%20Exposure/5.5.1%20Supplier%20Performance%20Matrix%20(Reliability%20vs%20Lead%20Time).png alt=5.5.1 width="500"/>
+  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Data-Driven-Current-State-Analysis/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.5%20Supplier%20Reliability%20%26%20Inbound%20Risk%20Exposure/5.5.1%20Supplier%20Performance%20Matrix%20(Reliability%20vs%20Lead%20Time).png alt=5.5.1 width="500"/>
 </p>
 
 **Insights**
@@ -257,7 +257,7 @@ This variability weakens inventory planning assumptions and increases reliance o
 
 <p align="center"> Unit cost optimization masks downstream execution cost and risk </p>
 <p align="center">
-  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Initiative-Data-Analysis-Phase/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.5%20Supplier%20Reliability%20%26%20Inbound%20Risk%20Exposure/5.5.2%20Supplier%20Cost%20vs%20Reliability%20Tradeoff.png alt=5.5.2 width="600"/>
+  <img src=https://github.com/nitinskunigal/Inventory-Operations-Enhancement-Data-Driven-Current-State-Analysis/blob/main/DA%20Deliverables/Screenshots%20of%20Visuals%20for%20Insights/5.5%20Supplier%20Reliability%20%26%20Inbound%20Risk%20Exposure/5.5.2%20Supplier%20Cost%20vs%20Reliability%20Tradeoff.png alt=5.5.2 width="600"/>
 </p>
 
 **Insights**
