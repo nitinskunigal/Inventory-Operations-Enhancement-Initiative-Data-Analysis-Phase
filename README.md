@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [1. Project Context](#1-project-context)
-- [2. How This Analysis Feeds the Business Analysis Phase](#2-how-this-analysis-feeds-the-business-analysis-phase)
+- [2. How This Analysis Feeds the Business Analysis Initiative](#2-how-this-analysis-feeds-the-business-analysis-initiative)
 - [3. Objective of This Data Analysis Phase](#3-objective-of-this-data-analysis-phase)
 - [4. Data Sources](#4-data-sources)
 - [5. Insights and Root Causes](#5-insights-and-root-causes)
@@ -28,7 +28,7 @@ not
 
 ---
 
-## 2. How This Analysis Feeds the Business Analysis Phase
+## 2. How This Analysis Feeds the Business Analysis Initiative
 
 This data analysis directly enabled the Business Analysis initiative in the following ways:
 
